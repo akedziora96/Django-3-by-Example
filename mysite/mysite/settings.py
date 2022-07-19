@@ -85,8 +85,8 @@ DATABASES = {
         'HOST': '127.0.0.1',
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'blog_db',
-        'USER': 'postgres',
-        'PASSWORD': 'coderslab',
+        'USER': '########',
+        'PASSWORD': '######',
     }
 }
 
